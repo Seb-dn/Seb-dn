@@ -4,8 +4,6 @@
 
 🖥️ Soy un apasionado estudiante de Ingeniería en Computación con un gran interés por la tecnología, programación e innovación, me encanta explorar nuevas tecnologías y desarrollar soluciones creativas para problemas complejos; Mi enfoque principal está en el desarrollo de software.
 
-💪🏻 Mi motivación principal es crear aplicaciones que tengan un impacto positivo y contribuyan a resolver problemas del mundo real mediante el uso inteligente de la tecnología.
-
 ## 🛠️ Pila de Habilidades:
 
 ### 🤖 Lenguajes de Programación
